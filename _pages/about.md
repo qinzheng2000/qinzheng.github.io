@@ -39,7 +39,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="authors">
       <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Yi Yuan, Jingdong Chen, Le Wang
     </div>
-    <!-- <div class="venue">AAAI26</div> -->
+    <div class="venue">AAAI26</div>
     <div class="links">
       <a href="https://digital-avatar.github.io/ai/HumanSense/" class="btn-accent">Project</a>
       <a href="https://arxiv.org/abs/2508.10576" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -58,11 +58,30 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="authors">
       <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Zixin Zhu, Sanping Zhou, Ming Yang, Le Wang
     </div>
-    <!-- <div class="venue">MM25</div> -->
+    <div class="venue">ACM MM25</div>
     <div class="links">
       <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
       <a href="https://arxiv.org/abs/2503.08714" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">CVPR2024</div>
+    <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Towards generalizable multi-object tracking</h3>
+    <div class="authors">
+      <strong>Zheng Qin</strong>, Le Wang, Sanping Zhou, Panpan Fu, Gang Hua, Wei Tang
+    </div>
+    <div class="venue">CVPR24</div>
+    <div class="links">
+      <!-- <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a> -->
+      <a href="https://arxiv.org/abs/2406.00429" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/qinzheng2000/GeneralTrack" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -77,7 +96,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="authors">
       <strong>Zheng Qin</strong>, Sanping Zhou, Le Wang, Jinghai Duan, Gang Hua, Wei Tang
     </div>
-    <!-- <div class="venue">MM25</div> -->
+    <div class="venue">CVPR23</div>
     <div class="links">
       <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Demo</a>
       <a href="https://arxiv.org/abs/2303.10404" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -86,24 +105,6 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">ACM MM2025</div>
-    <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Towards generalizable multi-object tracking</h3>
-    <div class="authors">
-      <strong>Zheng Qin</strong>, Le Wang, Sanping Zhou, Panpan Fu, Gang Hua, Wei Tang
-    </div>
-    <!-- <div class="venue">MM25</div> -->
-    <div class="links">
-      <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
-      <a href="https://arxiv.org/abs/2406.00429" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/qinzheng2000/GeneralTrack" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div>
-  </div>
-</div>
 
 
 # Publications 
