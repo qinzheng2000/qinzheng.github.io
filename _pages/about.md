@@ -31,7 +31,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 # 📝 Selected Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2026</div>
+    <div class="badge pulse-accent">Milti-model LLM</div>
     <img src='images/humansense.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -51,7 +51,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">ACM MM2025</div>
+    <div class="badge pulse-accent">Video Generation</div>
     <img src='images/verse.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -70,7 +70,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">CVPR2024</div>
+    <div class="badge pulse-accent">Multi-object Tracking</div>
     <img src='images/generaltrack.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -89,7 +89,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">CVPR2023</div>
+    <div class="badge pulse-accent">Multi-object Tracking</div>
     <img src='images/motiontrack.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
