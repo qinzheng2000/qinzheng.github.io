@@ -32,7 +32,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">NeurIPS 2025</div>
-    <img src='../images/2025SAMPO.png' alt="SAMPO" width="100%">
+    <img src='../images/humansnese.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs</h3>
