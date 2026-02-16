@@ -28,7 +28,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,6 +43,53 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# Publications 
+- **MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking**  
+  <u>Qin Z</u>, Zhou S, Wang L, Duan J, Hua G, Tang W. **CVPR 2023**
+
+- **Towards Generalizable Multi-Object Tracking**  
+  <u>Qin Z</u>, Wang L, Zhou S, Fu P, Hua G, Tang W. **CVPR 2024**
+
+- **Referencing Where to Focus: Improving Visual Grounding with Referential Query**  
+  Wang Y, Tian Z, Guo Q, <u>Qin Z</u>, Zhou S, Yang M, Wang L. **NeurIPS 2024**
+
+- **RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension**  
+  Wang Y, Tian Z, <u>Qin Z</u>, Zhou S, Wang L. **AAAI 2025**
+
+- **Towards Precise Embodied Dialogue Localization via Causality Guided Diffusion**  
+  Wang H, Wang L, <u>Qin Z</u>, Wang Y, Hua G, Tang W. **CVPR 2025**
+
+- **Versatile Multimodal Controls for Whole-Body Talking Human Animation**  
+  <u>Qin Z</u>, Zheng R, Wang Y, Li T, Zhu Z, Yang M, Yang M, Wang L. **ACM MM 2025**
+
+- **HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs**  
+  <u>Qin Z</u>, Zheng R, Wang Y, Li T, Yuan Y, Chen J, Wang L. **AAAI 2026**
+
+- **Single-Shot and Multi-Shot Feature Learning for Multi-Object Tracking**  
+  Li Y, Zhou S, <u>Qin Z</u>, Wang L, Wang J, Zheng N. **TMM 2024**
+
+- **Robust Noisy Label Learning via Two-Stream Sample Distillation**  
+  Bai S, Zhou S, <u>Qin Z</u>, Wang L, Zheng N. **TMM 2025**
+
+- **Semantic and Kinematics Guidance for RMOT**  
+  Li Y, Zhou S, <u>Qin Z</u>, Wang L. **TMM 2025**
+
+- **Injecting Position and Relation Prior for Dense Video Captioning**  
+  Li Y, Zhou S, <u>Qin Z</u>, Lin J, Sun X, Wu K, Wang L. *(Submitted to **TIP**)*
+
+- **From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**  
+  Wang Y, Tian Z, Guo Q, <u>Qin Z</u>, Zhou S, Yang M, Wang L. *(Submitted to **TCSVT**)*
+
+- **Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion**  
+  <u>Qin Z</u>, Wang L, Wang Y, Yang M, Rong C, Yang M, Zheng N. *(Submitted to **TCSVT**)*
+
+- **RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation**  
+  <u>Qin Z</u>, Wang L, Wang Y, Zhou S, Hua G, Tang W. *(Submitted to **TCSVT**)*
+
+- **Spatial Matters: Position-Guided 3D Referring Expression Segmentation**  
+  Wang Y, Tian Z, Wang L, <u>Qin Z</u>, Zhou S. *(Submitted to **CVPR 2026**)*
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
