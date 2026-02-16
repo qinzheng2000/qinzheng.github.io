@@ -51,7 +51,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ACM MM2025</div>
-    <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
+    <img src='images/2025FlowRAM.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Versatile Multimodal Controls for Expressive Talking Human Animation</h3>
