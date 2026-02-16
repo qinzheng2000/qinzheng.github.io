@@ -44,6 +44,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
       <a href="https://digital-avatar.github.io/ai/HumanSense/" class="btn-accent">Project</a>
       <a href="https://arxiv.org/abs/2508.10576" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://huggingface.co/antgroup/HumanSense_Omni_Reasoning" class="btn-accent"> Huggingface</a>
     </div>
   </div>
 </div>
