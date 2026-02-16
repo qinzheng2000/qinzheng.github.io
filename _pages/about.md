@@ -39,7 +39,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="authors">
       <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Yi Yuan, Jingdong Chen, Le Wang
     </div>
-    <div class="venue">AAAI26</div>
+    <!-- <div class="venue">AAAI26</div> -->
     <div class="links">
       <a href="https://digital-avatar.github.io/ai/HumanSense/" class="btn-accent">Project</a>
       <a href="https://arxiv.org/abs/2508.10576" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
