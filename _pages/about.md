@@ -45,50 +45,51 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Publications 
-- **MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking**  
-  <u>Qin Z</u>, Zhou S, Wang L, Duan J, Hua G, Tang W. **CVPR 2023**
+- MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking (CVPR 2023)  
+  **Qin Z**, Zhou S, Wang L, Duan J, Hua G, Tang W.
 
-- **Towards Generalizable Multi-Object Tracking**  
-  <u>Qin Z</u>, Wang L, Zhou S, Fu P, Hua G, Tang W. **CVPR 2024**
+- Towards Generalizable Multi-Object Tracking (CVPR 2024)  
+  **Qin Z**, Wang L, Zhou S, Fu P, Hua G, Tang W.
 
-- **Referencing Where to Focus: Improving Visual Grounding with Referential Query**  
-  Wang Y, Tian Z, Guo Q, <u>Qin Z</u>, Zhou S, Yang M, Wang L. **NeurIPS 2024**
+- Referencing Where to Focus: Improving Visual Grounding with Referential Query (NeurIPS 2024)  
+  Wang Y, Tian Z, Guo Q, **Qin Z**, Zhou S, Yang M, Wang L.
 
-- **RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension**  
-  Wang Y, Tian Z, <u>Qin Z</u>, Zhou S, Wang L. **AAAI 2025**
+- RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension (AAAI 2025)  
+  Wang Y, Tian Z, **Qin Z**, Zhou S, Wang L.
 
-- **Towards Precise Embodied Dialogue Localization via Causality Guided Diffusion**  
-  Wang H, Wang L, <u>Qin Z</u>, Wang Y, Hua G, Tang W. **CVPR 2025**
+- Towards Precise Embodied Dialogue Localization via Causality Guided Diffusion (CVPR 2025)  
+  Wang H, Wang L, **Qin Z**, Wang Y, Hua G, Tang W.
 
-- **Versatile Multimodal Controls for Whole-Body Talking Human Animation**  
-  <u>Qin Z</u>, Zheng R, Wang Y, Li T, Zhu Z, Yang M, Yang M, Wang L. **ACM MM 2025**
+- Versatile Multimodal Controls for Whole-Body Talking Human Animation (ACM MM 2025)  
+  **Qin Z**, Zheng R, Wang Y, Li T, Zhu Z, Yang M, Yang M, Wang L.
 
-- **HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs**  
-  <u>Qin Z</u>, Zheng R, Wang Y, Li T, Yuan Y, Chen J, Wang L. **AAAI 2026**
+- HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs (AAAI 2026)  
+  **Qin Z**, Zheng R, Wang Y, Li T, Yuan Y, Chen J, Wang L.
 
-- **Single-Shot and Multi-Shot Feature Learning for Multi-Object Tracking**  
-  Li Y, Zhou S, <u>Qin Z</u>, Wang L, Wang J, Zheng N. **TMM 2024**
+- Single-Shot and Multi-Shot Feature Learning for Multi-Object Tracking (TMM 2024)  
+  Li Y, Zhou S, **Qin Z**, Wang L, Wang J, Zheng N.
 
-- **Robust Noisy Label Learning via Two-Stream Sample Distillation**  
-  Bai S, Zhou S, <u>Qin Z</u>, Wang L, Zheng N. **TMM 2025**
+- Robust Noisy Label Learning via Two-Stream Sample Distillation (TMM 2025)  
+  Bai S, Zhou S, **Qin Z**, Wang L, Zheng N.
 
-- **Semantic and Kinematics Guidance for RMOT**  
-  Li Y, Zhou S, <u>Qin Z</u>, Wang L. **TMM 2025**
+- Semantic and Kinematics Guidance for RMOT (TMM 2025)  
+  Li Y, Zhou S, **Qin Z**, Wang L.
 
-- **Injecting Position and Relation Prior for Dense Video Captioning**  
-  Li Y, Zhou S, <u>Qin Z</u>, Lin J, Sun X, Wu K, Wang L. *(Submitted to **TIP**)*
+- Injecting Position and Relation Prior for Dense Video Captioning (Submitted to TIP)  
+  Li Y, Zhou S, **Qin Z**, Lin J, Sun X, Wu K, Wang L.
 
-- **From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**  
-  Wang Y, Tian Z, Guo Q, <u>Qin Z</u>, Zhou S, Yang M, Wang L. *(Submitted to **TCSVT**)*
+- From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval (Submitted to TCSVT)  
+  Wang Y, Tian Z, Guo Q, **Qin Z**, Zhou S, Yang M, Wang L.
 
-- **Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion**  
-  <u>Qin Z</u>, Wang L, Wang Y, Yang M, Rong C, Yang M, Zheng N. *(Submitted to **TCSVT**)*
+- Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion (Submitted to TCSVT)  
+  **Qin Z**, Wang L, Wang Y, Yang M, Rong C, Yang M, Zheng N.
 
-- **RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation**  
-  <u>Qin Z</u>, Wang L, Wang Y, Zhou S, Hua G, Tang W. *(Submitted to **TCSVT**)*
+- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation (Submitted to TCSVT)  
+  **Qin Z**, Wang L, Wang Y, Zhou S, Hua G, Tang W.
 
-- **Spatial Matters: Position-Guided 3D Referring Expression Segmentation**  
-  Wang Y, Tian Z, Wang L, <u>Qin Z</u>, Zhou S. *(Submitted to **CVPR 2026**)*
+- Spatial Matters: Position-Guided 3D Referring Expression Segmentation (Submitted to CVPR 2026)  
+  Wang Y, Tian Z, Wang L, **Qin Z**, Zhou S.
+
 
 
 # 💻 Internships
