@@ -107,6 +107,45 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Visual Grounding</div>
+    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension</h3>
+    <div class="authors">
+      Yabing Wang, Zhuotao Tian, <strong>Zheng Qin</strong>, Sanping Zhou, Le Wang
+    </div>
+    <div class="venue">AAAI25</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Visual Grounding</div>
+    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Referencing Where to Focus: Improving Visual Grounding with Referential Query</h3>
+    <div class="authors">
+      Yabing Wang, Zhuotao Tian, <strong>Zheng Qin</strong>, Sanping Zhou, Le Wang
+    </div>
+    <div class="venue">NIPS24</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://arxiv.org/abs/2412.19155" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/RefFormer" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
+
+
 
 # Publications 
 - MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking (CVPR 2023)  
