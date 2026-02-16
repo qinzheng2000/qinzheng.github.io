@@ -48,6 +48,64 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">ACM MM2025</div>
+    <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Versatile Multimodal Controls for Expressive Talking Human Animation</h3>
+    <div class="authors">
+      <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Zixin Zhu, Sanping Zhou, Ming Yang, Le Wang
+    </div>
+    <!-- <div class="venue">MM25</div> -->
+    <div class="links">
+      <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
+      <a href="https://arxiv.org/abs/2503.08714" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">ACM MM2025</div>
+    <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Versatile Multimodal Controls for Expressive Talking Human Animation</h3>
+    <div class="authors">
+      <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Zixin Zhu, Sanping Zhou, Ming Yang, Le Wang
+    </div>
+    <!-- <div class="venue">MM25</div> -->
+    <div class="links">
+      <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
+      <a href="https://arxiv.org/abs/2503.08714" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">ACM MM2025</div>
+    <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Versatile Multimodal Controls for Expressive Talking Human Animation</h3>
+    <div class="authors">
+      <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Zixin Zhu, Sanping Zhou, Ming Yang, Le Wang
+    </div>
+    <!-- <div class="venue">MM25</div> -->
+    <div class="links">
+      <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
+      <a href="https://arxiv.org/abs/2503.08714" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+    </div>
+  </div>
+</div>
+
+
 # Publications 
 - MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking (CVPR 2023)  
   **Qin Z**, Zhou S, Wang L, Duan J, Hua G, Tang W.
