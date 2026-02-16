@@ -110,7 +110,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+    <img src='images/aaai25.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension</h3>
@@ -129,7 +129,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+    <img src='images/nips24.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Referencing Where to Focus: Improving Visual Grounding with Referential Query</h3>
@@ -147,8 +147,8 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+    <div class="badge pulse-accent">Embodied AI</div>
+    <img src='images/cvpr25.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Towards precise embodied dialogue localization via causality guided diffusion</h3>
