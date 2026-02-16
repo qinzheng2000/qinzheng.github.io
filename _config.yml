@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Qin"
   avatar           : "images/qinzheng.png"
-  bio              : "Lorem ipsum College"
+  bio              : "XJTU Ph.D. student"
   location         : "Trento, Italy"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/qinzheng2000"
   google_plus      :
   keybase          :
   instagram        :
