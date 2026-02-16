@@ -51,7 +51,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ACM MM2025</div>
-    <img src='images/2025FlowRAM.png' alt="SAMPO" width="100%">
+    <img src='images/verse.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Versatile Multimodal Controls for Expressive Talking Human Animation</h3>
@@ -70,7 +70,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">CVPR2024</div>
-    <img src='/images/2025FlowRAM.png' alt="SAMPO" width="100%">
+    <img src='images/generaltrack.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Towards generalizable multi-object tracking</h3>
@@ -89,7 +89,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">CVPR2023</div>
-    <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
+    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Motiontrack: Learning robust short-term and long-term motions for multi-object tracking</h3>
