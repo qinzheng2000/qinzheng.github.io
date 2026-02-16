@@ -69,18 +69,18 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">ACM MM2025</div>
+    <div class="badge pulse-accent">CVPR2023</div>
     <img src='../images/2025FlowRAM.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>Versatile Multimodal Controls for Expressive Talking Human Animation</h3>
+    <h3>Motiontrack: Learning robust short-term and long-term motions for multi-object tracking</h3>
     <div class="authors">
-      <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Zixin Zhu, Sanping Zhou, Ming Yang, Le Wang
+      <strong>Zheng Qin</strong>, Sanping Zhou, Le Wang, Jinghai Duan, Gang Hua, Wei Tang
     </div>
     <!-- <div class="venue">MM25</div> -->
     <div class="links">
-      <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
-      <a href="https://arxiv.org/abs/2503.08714" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Demo</a>
+      <a href="https://arxiv.org/abs/2303.10404" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
     </div>
   </div>
