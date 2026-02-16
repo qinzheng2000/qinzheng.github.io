@@ -37,7 +37,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
   <div class='paper-box-text'>
     <h3>HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs</h3>
     <div class="authors">
-      <strong>Zheng Qin*</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Yi Yuan, Jingdong Chen, Le Wang
+      <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Yi Yuan, Jingdong Chen, Le Wang
     </div>
     <div class="venue">AAAI26</div>
     <div class="links">
