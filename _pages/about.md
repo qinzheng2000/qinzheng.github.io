@@ -233,36 +233,3 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 Reviewer for CVPR, ICCV, ICML, ECCV, ICLR, NIPS, ACM MM, AAAI, etc.
 
 
-
-<style>
-.video-slider { position: relative; max-width: 640px; margin: 1rem auto; }
-.slide { display: none; }
-iframe, video { width: 100%; aspect-ratio: 16/9; border: none; }
-.prev, .next {
-  position: absolute; top: 50%; transform: translateY(-50%);
-  padding: 6px 10px; background: rgba(0,0,0,.5); color:#fff; cursor:pointer;
-}
-.next { right: 0; }
-.dots { text-align:center; margin-top:6px; }
-.dots span { display:inline-block; width:10px; height:10px;
-  background:#bbb; border-radius:50%; margin:0 3px; cursor:pointer; }
-.dots span.active { background:#717171; }
-</style>
-
-<script>
-let slideIndex=1; showSlides(slideIndex);
-function plusSlides(n){ showSlides(slideIndex+=n); }
-function currentSlide(n){ showSlides(slideIndex=n); }
-function showSlides(n){
-  const slides=document.querySelectorAll('.slide');
-  const dots=document.querySelectorAll('.dots span');
-  if(n>slides.length) slideIndex=1;
-  if(n<1) slideIndex=slides.length;
-  slides.forEach(s=>s.style.display="none");
-  dots.forEach(d=>d.classList.remove("active"));
-  slides[slideIndex-1].style.display="block";
-  dots[slideIndex-1].classList.add("active");
-}
-</script>
-
-
