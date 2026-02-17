@@ -40,11 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// 海洋系主色变量
-$accent-color-1: #008080; // 海蓝绿
-$accent-color-2: #66e0e0; // 浅青绿
-$main-color: #004d4d;      // 深海蓝绿（标题、作者文字）
-
 .paper-box {
     display: flex;
     justify-content: left;
@@ -54,6 +49,7 @@ $main-color: #004d4d;      // 深海蓝绿（标题、作者文字）
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
     
+
     .paper-box-image{
         justify-content: center;
         display: flex;
@@ -85,7 +81,10 @@ $main-color: #004d4d;      // 深海蓝绿（标题、作者文字）
             max-width: 60%;
             order: 2;
         }
+
     }
+
+
 }
 
 $scroll_offset : 2em;
@@ -105,9 +104,13 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: $main-color; // 深海蓝绿
+    background-color: #00369f;
     font-size: .8em;
 }
+
+$accent-color-1: #4facfe; 
+$accent-color-2: #00f2fe; 
+$main-color: #012F63;     
 
 .paper-box {
   display: flex !important;
@@ -115,8 +118,8 @@ h1:before, .anchor:before {
   background: #ffffff !important;
   border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 6px 20px rgba(0, 77, 77, 0.06), 0 2px 6px rgba(0, 77, 77, 0.04);
-  border: 1px solid rgba(0, 77, 77, 0.04);
+  box-shadow: 0 6px 20px rgba(1, 47, 99, 0.06), 0 2px 6px rgba(1, 47, 99, 0.04);
+  border: 1px solid rgba(1, 47, 99, 0.04);
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
   margin-bottom: 2rem;
@@ -126,8 +129,8 @@ h1:before, .anchor:before {
 
 .paper-box:hover {
   transform: translateY(-4px);
-  box-shadow: 0 12px 35px rgba(0, 77, 77, 0.1), 0 4px 15px rgba(0, 128, 128, 0.2); 
-  border-color: rgba(0, 128, 128, 0.3);
+  box-shadow: 0 12px 35px rgba(1, 47, 99, 0.1), 0 4px 15px rgba(79, 172, 254, 0.2); 
+  border-color: rgba(79, 172, 254, 0.3);
 }
 
 .paper-box-image {
@@ -135,7 +138,7 @@ h1:before, .anchor:before {
   width: 240px;
   min-width: 240px;
   overflow: hidden;
-  background: linear-gradient(135deg, #e0f7f7 0%, #b2f0f0 100%);
+  background: linear-gradient(135deg, #f0f9ff 0%, #e6f7ff 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -150,12 +153,12 @@ h1:before, .anchor:before {
   object-fit: contain;
   transition: all 0.4s ease;
   border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 77, 77, 0.08);
+  box-shadow: 0 4px 12px rgba(1, 47, 99, 0.08);
 }
 
 .paper-box:hover .paper-box-image img {
   transform: scale(1.02);
-  box-shadow: 0 8px 25px rgba(0, 77, 77, 0.12);
+  box-shadow: 0 8px 25px rgba(1, 47, 99, 0.12);
 }
 
 .paper-box-image .badge {
@@ -168,7 +171,7 @@ h1:before, .anchor:before {
   border-radius: 20px;
   font-size: 0.75em;
   font-weight: 700;
-  box-shadow: 0 4px 12px rgba(0, 128, 128, 0.3);
+  box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3);
   z-index: 10;
   margin: 0 !important;
 }
@@ -176,11 +179,10 @@ h1:before, .anchor:before {
 .pulse-accent {
   animation: pulse-accent 2s infinite;
 }
-
 @keyframes pulse-accent {
-  0% { box-shadow: 0 4px 12px rgba(0, 128, 128, 0.3); }
-  50% { box-shadow: 0 4px 20px rgba(0, 128, 128, 0.5); }
-  100% { box-shadow: 0 4px 12px rgba(0, 128, 128, 0.3); }
+  0% { box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3); }
+  50% { box-shadow: 0 4px 20px rgba(79, 172, 254, 0.5); }
+  100% { box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3); }
 }
 
 .paper-box-text {
@@ -220,14 +222,14 @@ h1:before, .anchor:before {
 }
 
 .btn-accent {
-  background: linear-gradient(90deg, $accent-color-1 0%, $accent-color-2 100%);
+  background: linear-gradient(90deg, $accent-color-1 0%, $accent-color-2 100%); /* 按钮也用渐变 */
   color: white !important;
   padding: 8px 16px;
   border-radius: 25px;
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
-  box-shadow: 0 3px 8px rgba(0, 128, 128, 0.3);
+  box-shadow: 0 3px 8px rgba(79, 172, 254, 0.3);
   transition: all 0.3s ease;
   border: none;
   display: inline-flex;
@@ -237,7 +239,7 @@ h1:before, .anchor:before {
 
 .btn-accent:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 15px rgba(0, 128, 128, 0.4);
+  box-shadow: 0 6px 15px rgba(79, 172, 254, 0.4);
 }
 
 @media (max-width: 768px) {
@@ -253,5 +255,5 @@ h1:before, .anchor:before {
 
 .hover-float:hover {
     transform: translateY(-5px); 
-    text-shadow: 0 8px 15px rgba(0, 128, 128, 0.4); 
-} 
+    text-shadow: 0 8px 15px rgba(79, 172, 254, 0.4); 
+}
