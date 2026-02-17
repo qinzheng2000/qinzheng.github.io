@@ -25,8 +25,13 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 
 # 🔥 News {#news}
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2025.
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023.
 
 # 📝 Selected Publications {#selectedpublications}
 <div class='paper-box'>
