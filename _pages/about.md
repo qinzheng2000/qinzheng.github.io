@@ -226,8 +226,12 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **National Scholarship (PhD)**, 2025  
+- **Weichai Power Scholarship (PhD)**, 2025  
+- **Outstanding Graduate Student (PhD)**, 2023, 2024  
+- **First-Class Freshman Scholarship**, 2021  
+- **Outstanding Graduate, Harbin Institute of Technology**, 2021  
+- **First-Class Academic Scholarship**, 2018, 2019, 2020
 
 # 📖 Educations {#educations}
 - *2025.09 - now*, Visiting Ph.D. student, Artificial Intelligence, University of Trento.
@@ -235,10 +239,11 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - *2017.09 - 2021.06*, B.S., Robotics Engineering, Harbin Institute of Technology
 
 # 💬 Invited Talks {#invited-talks}
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.07*, Invited to present the paper GeneralTrack at the “Summer of the Institute of Human–Computer Interaction, XJTU”
+- *2023.07*, Invited to present the paper MotionTrack at the “Summer of the Institute of Human–Computer Interaction, XJTU”
+- *2023.06*, Invited to present the paper MotionTrack at the CVPR 2023 paper-sharing session hosted by Microsoft Research Asia (MSRA Asia).
 
 # Services {#services}
-Reviewer for CVPR, ICCV, ICML, ECCV, ICLR, NIPS, ACM MM, AAAI, etc.
+Reviewer for CVPR, ICCV, ICML, ECCV, ICLR, NIPS, ACM MM, AAAI, TIP, TMM, PR, etc.
 
 
