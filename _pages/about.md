@@ -128,7 +128,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class="badge pulse-accent">Multi-object Tracking</div> -->
-    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+    <img src='images/nav.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation</h3>
@@ -140,7 +140,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a> -->
       <a href="https://arxiv.org/abs/2504.17991"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/qinzheng2000/RSRNav"><i class="fab fa-github"></i> Code</a>
-      <a href=""><i class="fab fa-github"></i> Demo</a>
+      <a href="https://www.youtube.com/watch?v=_DfA4N8e4ak"><i class="fab fa-github"></i> Demo</a>
     </div>
   </div>
 </div>
@@ -148,7 +148,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class="badge pulse-accent">Multi-object Tracking</div> -->
-    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+    <img src='images/gen.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion</h3>
