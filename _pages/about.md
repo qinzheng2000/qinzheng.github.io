@@ -24,11 +24,11 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 
 
-# 🔥 News
+# 🔥 News {#news}
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Selected Publications
+# 📝 Selected Publications {#selectedpublications}
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Milti-model LLM</div>
@@ -212,11 +212,11 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 
 
-# 💻 Internships
+# 💻 Internships {#internships}
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-# 🎖 Honors and Scholarships
+# 🎖 Honors and Scholarships {#honors-and-scholarships}
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -225,7 +225,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - *2021.09 - (now)*, Ph.D. student, Control Science and Engineering, Xi'an Jiaotong University. 
 - *2017.09 - 2021.06*, B.S., Robotics Engineering, Harbin Institute of Technology
 
-# 💬 Invited Talks
+# 💬 Invited Talks {#invited-talks}
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
