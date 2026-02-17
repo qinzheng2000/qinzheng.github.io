@@ -60,10 +60,10 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
     <div class="venue">AAAI26</div>
     <div class="links">
-      <a href="https://digital-avatar.github.io/ai/HumanSense/" class="btn-accent">Project</a>
-      <a href="https://arxiv.org/abs/2508.10576" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-      <a href="https://huggingface.co/antgroup/HumanSense_Omni_Reasoning" class="btn-accent"> Huggingface</a>
+      <a href="https://digital-avatar.github.io/ai/HumanSense/">Project</a>
+      <a href="https://arxiv.org/abs/2508.10576"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/antgroup/HumanSense"><i class="fab fa-github"></i> Code</a>
+      <a href="https://huggingface.co/antgroup/HumanSense_Omni_Reasoning"> Huggingface</a>
     </div>
   </div>
 </div>
