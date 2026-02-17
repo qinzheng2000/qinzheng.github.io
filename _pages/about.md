@@ -50,7 +50,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 # 📝 Selected Publications {#selectedpublications}
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Milti-model LLM</div>
+    <!-- <div class="badge pulse-accent">Milti-model LLM</div> -->
     <img src='images/humansense.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -70,7 +70,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Video Generation</div>
+    <!-- <div class="badge pulse-accent">Video Generation</div> -->
     <img src='images/verse.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -89,7 +89,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Multi-object Tracking</div>
+    <!-- <div class="badge pulse-accent">Multi-object Tracking</div> -->
     <img src='images/generaltrack.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -108,7 +108,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Multi-object Tracking</div>
+    <!-- <div class="badge pulse-accent">Multi-object Tracking</div> -->
     <img src='images/motiontrack.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -128,7 +128,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
     <img src='images/aaai25.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -147,7 +147,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
     <img src='images/nips24.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -166,7 +166,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Embodied AI</div>
+    <!-- <div class="badge pulse-accent">Embodied AI</div> -->
     <img src='images/cvpr25.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
