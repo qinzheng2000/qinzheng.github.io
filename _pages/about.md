@@ -42,9 +42,9 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 
 # 💻 Internships {#internships}
-- *2025.03 - now*, Ant Group, Multimodal Interaction Team  |  Research Intern in Multimodal Large Models.
-- *2024.05 - 2025.02*, Ant Group, Digital Human Algorithm Team  |  Research Intern in Digital Human Algorithms.
-- *2022.05 - 2024.03*, University of Illinois Chicago, Prof. Wei Tang’s Research Group ｜ Research Intern in Computer Vision.
+- *2025.03 - now*, Ant Group, Multimodal Interaction Team, Research Intern in Multimodal Large Models.
+- *2024.05 - 2025.02*, Ant Group, Digital Human Algorithm Team, Research Intern in Digital Human Algorithms.
+- *2022.05 - 2024.03*, University of Illinois Chicago, Prof. Wei Tang’s Research Group, Research Intern in Computer Vision.
 
 
 # 📝 Selected Publications {#selectedpublications}
