@@ -80,9 +80,9 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
     <div class="venue">ACM MM25</div>
     <div class="links">
-      <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
-      <a href="https://arxiv.org/abs/2503.08714" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <!-- <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+      <a href="https://digital-avatar.github.io/ai/VersaAnimator/">Project</a>
+      <a href="https://arxiv.org/abs/2503.08714"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://github.com/antgroup/HumanSense"><i class="fab fa-github"></i> Code</a> -->
     </div>
   </div>
 </div>
@@ -99,9 +99,9 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
     <div class="venue">CVPR24</div>
     <div class="links">
-      <!-- <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a> -->
-      <a href="https://arxiv.org/abs/2406.00429" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/qinzheng2000/GeneralTrack" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <!-- <a href="https://digital-avatar.github.io/ai/VersaAnimator/">Project</a> -->
+      <a href="https://arxiv.org/abs/2406.00429"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/qinzheng2000/GeneralTrack"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -118,9 +118,9 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
     <div class="venue">CVPR23</div>
     <div class="links">
-      <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a>
-      <a href="https://arxiv.org/abs/2303.10404" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a>
+      <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a>
+      <a href="https://arxiv.org/abs/2303.10404"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://www.youtube.com/shorts/CFmHsWB_Sus"><i class="fab fa-github"></i> Demo</a>
     </div>
   </div>
 </div>
@@ -138,9 +138,9 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
     <div class="venue">AAAI25</div>
     <div class="links">
-      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a> -->
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
 </div>
@@ -157,9 +157,9 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
     <div class="venue">NIPS24</div>
     <div class="links">
-      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2412.19155" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/LiJiaBei-7/RefFormer" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a> -->
+      <a href="https://arxiv.org/abs/2412.19155"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/RefFormer"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -177,7 +177,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="venue">CVPR25</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Towards_Precise_Embodied_Dialogue_Localization_via_Causality_Guided_Diffusion_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Towards_Precise_Embodied_Dialogue_Localization_via_Causality_Guided_Diffusion_CVPR_2025_paper.pdf"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://github.com/LiJiaBei-7/RefFormer" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
     </div>
   </div>
