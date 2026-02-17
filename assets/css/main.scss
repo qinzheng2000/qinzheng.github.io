@@ -179,8 +179,8 @@ $main-color: #012F63;
 .paper-box-image .badge {
   position: absolute;
   /* 往上移：将原本的 16px 减小（比如 8px），让它更贴近边缘 */
-  top: 8px; 
-  left: 12px;
+  top: 2px; 
+  left: 2px;
   
   /* 去掉所有背景和边框相关 */
   background: none;
@@ -188,12 +188,11 @@ $main-color: #012F63;
   padding: 0;
   
   /* 字再大一点：从 0.75em 增加到 1.1em 或更高 */
-  font-size: 1.1em; 
+  font-size: 1.5em; 
   font-weight: 800; /* 极粗，增加辨识度 */
   color: $accent-color-1; /* 使用你的主题色 */
   
   /* 优化纯文字视觉 */
-  text-transform: uppercase; /* 全大写显得更像专业标签 */
   letter-spacing: 0.5px;    /* 微调字间距，更有设计感 */
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1); /* 极淡阴影，防止背景太乱看不清 */
   
