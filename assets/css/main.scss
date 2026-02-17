@@ -161,21 +161,39 @@ $main-color: #012F63;
   box-shadow: 0 8px 25px rgba(1, 47, 99, 0.12);
 }
 
+// .paper-box-image .badge {
+//   position: absolute;
+//   top: 16px;
+//   left: 16px;
+//   background: linear-gradient(135deg, $accent-color-1 0%, $accent-color-2 100%);
+//   color: white;
+//   padding: 0.4em 0.8em;
+//   border-radius: 20px;
+//   font-size: 0.75em;
+//   font-weight: 700;
+//   box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3);
+//   z-index: 10;
+//   margin: 0 !important;
+// }
 .paper-box-image .badge {
   position: absolute;
   top: 16px;
   left: 16px;
-  background: linear-gradient(135deg, $accent-color-1 0%, $accent-color-2 100%);
-  color: white;
-  padding: 0.4em 0.8em;
-  border-radius: 20px;
-  font-size: 0.75em;
-  font-weight: 700;
-  box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3);
+  /* 去掉背景 */
+  background: none; 
+  /* 将文字颜色设为变量颜色，或者你喜欢的特定颜色（如 #4facfe） */
+  color: $accent-color-1; 
+  padding: 0;
+  border-radius: 0;
+  font-size: 0.85em; /* 稍微调大一点，因为没有背景包围，字太小会显弱 */
+  font-weight: 800;   /* 增加粗细，增强存在感 */
+  /* 去掉盒子阴影，改为文字阴影，确保在复杂背景下也能看清 */
+  box-shadow: none;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); 
   z-index: 10;
   margin: 0 !important;
+  text-transform: uppercase; /* 可选：全大写会让这种纯文字标签看起来更专业 */
 }
-
 .pulse-accent {
   animation: pulse-accent 2s infinite;
 }
