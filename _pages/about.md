@@ -35,6 +35,18 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023.
 
+# 📖 Educations {#educations}
+- *2025.09 - now*, Visiting Ph.D. student, Artificial Intelligence, University of Trento.
+- *2021.09 - now*, Ph.D. student, Control Science and Engineering, Xi'an Jiaotong University. 
+- *2017.09 - 2021.06*, B.S., Robotics Engineering, Harbin Institute of Technology
+
+
+# 💻 Internships {#internships}
+- *2025.03 - now*, Ant Group, Multimodal Interaction Team  |  Research Intern in Multimodal Large Models.
+- *2024.05 - 2025.02*, Ant Group, Digital Human Algorithm Team  |  Research Intern in Digital Human Algorithms.
+- *2022.05 - 2024.03*, University of Illinois Chicago, Prof. Wei Tang’s Research Group ｜ Research Intern in Computer Vision.
+
+
 # 📝 Selected Publications {#selectedpublications}
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -219,12 +231,6 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 
 
-# 💻 Internships {#internships}
-- *2025.03 - now*, Ant Group, Multimodal Interaction Team  |  Research Intern in Multimodal Large Models.
-- *2024.05 - 2025.02*, Ant Group, Digital Human Algorithm Team  |  Research Intern in Digital Human Algorithms.
-- *2022.05 - 2024.03*, University of Illinois Chicago, Prof. Wei Tang’s Research Group ｜ Research Intern in Computer Vision.
-
-
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
 - **National Scholarship (PhD)**, 2025  
 - **Weichai Power Scholarship (PhD)**, 2025  
@@ -232,11 +238,6 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - **First-Class Freshman Scholarship**, 2021  
 - **Outstanding Graduate, Harbin Institute of Technology**, 2021  
 - **First-Class Academic Scholarship**, 2018, 2019, 2020
-
-# 📖 Educations {#educations}
-- *2025.09 - now*, Visiting Ph.D. student, Artificial Intelligence, University of Trento.
-- *2021.09 - now*, Ph.D. student, Control Science and Engineering, Xi'an Jiaotong University. 
-- *2017.09 - 2021.06*, B.S., Robotics Engineering, Harbin Institute of Technology
 
 # 💬 Invited Talks {#invited-talks}
 - *2024.07*, Invited to present the paper GeneralTrack at the “Summer of the Institute of Human–Computer Interaction, XJTU”
