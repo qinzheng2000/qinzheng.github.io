@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. candidate at the Institute of Artificial Intelligence and Robotics ([IAIR](https://iair.xjtu.edu.cn/index.htm), Xi'an Jiaotong University (XJTU), where I pursue my doctoral studies under the supervision of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
+I am a fifth-year Ph.D. candidate at the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, where I pursue my doctoral studies under the supervision of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
 
 Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Institute of Technology. I am currently a visiting Ph.D. student with the Multimedia and Human Understanding Group (MHUG) at the University of Trento, under the supervision of [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
 
