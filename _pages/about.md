@@ -220,9 +220,9 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 
 
 # 💻 Internships {#internships}
-- *2025.03 - now*, Ant Group, Multimodal Interaction Team | Research Intern in Multimodal Large Models.
-- *2024.05 - 2025.02*, Ant Group, Digital Human Algorithm Team | Research Intern in Digital Human Algorithms.
-- *2022.05 - 2024.03*, University of Illinois Chicago ｜ Prof. Wei Tang’s Research Group ｜ Research Intern in Computer Vision.
+- *2025.03 - now*, Ant Group, Multimodal Interaction Team  |  Research Intern in Multimodal Large Models.
+- *2024.05 - 2025.02*, Ant Group, Digital Human Algorithm Team  |  Research Intern in Digital Human Algorithms.
+- *2022.05 - 2024.03*, University of Illinois Chicago, Prof. Wei Tang’s Research Group ｜ Research Intern in Computer Vision.
 
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
@@ -230,8 +230,8 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations {#educations}
-- *2025.09 - (now)*, Visiting Ph.D. student, Artificial Intelligence, University of Trento.
-- *2021.09 - (now)*, Ph.D. student, Control Science and Engineering, Xi'an Jiaotong University. 
+- *2025.09 - now*, Visiting Ph.D. student, Artificial Intelligence, University of Trento.
+- *2021.09 - now*, Ph.D. student, Control Science and Engineering, Xi'an Jiaotong University. 
 - *2017.09 - 2021.06*, B.S., Robotics Engineering, Harbin Institute of Technology
 
 # 💬 Invited Talks {#invited-talks}
