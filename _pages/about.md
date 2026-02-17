@@ -125,6 +125,46 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class="badge pulse-accent">Multi-object Tracking</div> -->
+    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation</h3>
+    <div class="authors">
+      <strong>Zheng Qin</strong>, Le Wang, Yabing Wang, Sanping Zhou, Gang Hua, Wei Tang
+    </div>
+    <div class="venue">Arxiv25</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a> -->
+      <a href="https://arxiv.org/abs/2504.17991"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/qinzheng2000/RSRNav"><i class="fab fa-github"></i> Code</a>
+      <a href=""><i class="fab fa-github"></i> Demo</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class="badge pulse-accent">Multi-object Tracking</div> -->
+    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion</h3>
+    <div class="authors">
+      <strong>Zheng Qin</strong>, Yabing Wang, Minghui Yang, Sanping Zhou, Ming Yang, Le Wang
+    </div>
+    <div class="venue">Arxiv25</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a> -->
+      <a href="https://arxiv.org/abs/2508.20604"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://github.com/qinzheng2000/RSRNav"><i class="fab fa-github"></i> Code</a> -->
+      <!-- <a href=""><i class="fab fa-github"></i> Demo</a> -->
+    </div>
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -144,6 +184,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -182,6 +223,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
   </div>
 </div>
+
 
 # Publications  {#publications}
 - MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking (CVPR 2023)  
