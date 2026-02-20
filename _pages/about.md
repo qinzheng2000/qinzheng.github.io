@@ -82,8 +82,6 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="links">
       <a href="https://digital-avatar.github.io/ai/VersaAnimator/">Project</a>
       <a href="https://arxiv.org/abs/2503.08714"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="http://youtube.com/watch?v=jLQriKTNpnE"></i> Demo1</a>
-      <a href="https://www.youtube.com/watch?v=Sq4PLoD_geA"></i> Demo2</a>
     </div>
   </div>
 </div>
@@ -121,7 +119,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="links">
       <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a>
       <a href="https://arxiv.org/abs/2303.10404"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://www.youtube.com/shorts/CFmHsWB_Sus"><i class="fab fa-github"></i> Demo</a>
+      <a href="https://www.youtube.com/shorts/CFmHsWB_Sus"> Demo</a>
     </div>
   </div>
 </div>
@@ -160,6 +158,8 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a> -->
       <a href="https://arxiv.org/abs/2508.20604"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="http://youtube.com/watch?v=jLQriKTNpnE"> Demo1</a>
+      <a href="https://www.youtube.com/watch?v=Sq4PLoD_geA"> Demo2</a>
       <!-- <a href="https://github.com/qinzheng2000/RSRNav"><i class="fab fa-github"></i> Code</a> -->
       <!-- <a href=""><i class="fab fa-github"></i> Demo</a> -->
     </div>
