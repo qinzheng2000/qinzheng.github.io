@@ -21,7 +21,7 @@ I am a fifth-year Ph.D. candidate at the Institute of Artificial Intelligence an
 
 Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Institute of Technology. I am currently a visiting Ph.D. student with the Multimedia and Human Understanding Group (MHUG) at the University of Trento, under the supervision of Prof.[Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
 
-
+I am expecting to complete my PhD in 2026.09 and am currently seeking opportunities in Multimodal Large Language Model (MLLM) algorithms or applications. If you have any suitable openings, please feel free to reach out. My resume is attached here CV.
 
 
 # 🔥 News {#news}
