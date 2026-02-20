@@ -100,7 +100,7 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     </div>
     <div class="venue">CVPR24</div>
     <div class="links">
-      <!-- <a href="https://digital-avatar.github.io/ai/VersaAnimator/">Project</a> -->
+      <a href="https://www.youtube.com/watch?v=xiKIbisA_n4&t=85s">Video</a>
       <a href="https://arxiv.org/abs/2406.00429"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/qinzheng2000/GeneralTrack"><i class="fab fa-github"></i> Code</a>
     </div>
