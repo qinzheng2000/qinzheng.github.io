@@ -82,7 +82,8 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
     <div class="links">
       <a href="https://digital-avatar.github.io/ai/VersaAnimator/">Project</a>
       <a href="https://arxiv.org/abs/2503.08714"><i class="fas fa-file-alt"></i> Paper</a>
-      <!-- <a href="https://github.com/antgroup/HumanSense"><i class="fab fa-github"></i> Code</a> -->
+      <a href="http://youtube.com/watch?v=jLQriKTNpnE"></i> Demo1</a>
+      <a href="https://www.youtube.com/watch?v=Sq4PLoD_geA"></i> Demo2</a>
     </div>
   </div>
 </div>
