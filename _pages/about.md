@@ -227,6 +227,26 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class="badge pulse-accent">Embodied AI</div> -->
+    <img src='images/cvpr25.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Spatial Matters: Position-Guided 3D Referring Expression Segmentation</h3>
+    <div class="authors">
+      Wang Y, Tian Z, Wang L, <strong>Zheng Qin</strong>, Zhou S
+    </div>
+    <div class="venue">CVPR25</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Towards_Precise_Embodied_Dialogue_Localization_via_Causality_Guided_Diffusion_CVPR_2025_paper.pdf"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://github.com/LiJiaBei-7/RefFormer" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+    </div>
+  </div>
+</div>
+
+
 # Publications  {#publications}
 - MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking (CVPR 2023)  
   **Qin Z**, Zhou S, Wang L, Duan J, Hua G, Tang W.
@@ -249,6 +269,9 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs (AAAI 2026)  
   **Qin Z**, Zheng R, Wang Y, Li T, Yuan Y, Chen J, Wang L.
 
+- Spatial Matters: Position-Guided 3D Referring Expression Segmentation (CVPR 2026)  
+  Wang Y, Tian Z, Wang L, **Qin Z**, Zhou S.
+  
 - Single-Shot and Multi-Shot Feature Learning for Multi-Object Tracking (TMM 2024)  
   Li Y, Zhou S, **Qin Z**, Wang L, Wang J, Zheng N.
 
@@ -270,8 +293,6 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation (Submitted to TCSVT)  
   **Qin Z**, Wang L, Wang Y, Zhou S, Hua G, Tang W.
 
-- Spatial Matters: Position-Guided 3D Referring Expression Segmentation (Submitted to CVPR 2026)  
-  Wang Y, Tian Z, Wang L, **Qin Z**, Zhou S.
 
 
 
