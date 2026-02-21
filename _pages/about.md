@@ -25,6 +25,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 
 
 # 🔥 News {#news}
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
