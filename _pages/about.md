@@ -240,7 +240,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
     <div class="venue">CVPR26</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Towards_Precise_Embodied_Dialogue_Localization_via_Causality_Guided_Diffusion_CVPR_2025_paper.pdf"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href=""><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://github.com/LiJiaBei-7/RefFormer" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
     </div>
   </div>
