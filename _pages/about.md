@@ -230,7 +230,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 <div class='paper-box'>
   <div class='paper-box-image'>
     <!-- <div class="badge pulse-accent">Embodied AI</div> -->
-    <img src='images/cvpr25.png' alt="SAMPO" width="100%">
+    <img src='images/cvpr26.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Spatial Matters: Position-Guided 3D Referring Expression Segmentation</h3>
