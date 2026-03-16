@@ -282,7 +282,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - Semantic and Kinematics Guidance for RMOT (TMM 2025)  
   Li Y, Zhou S, **Qin Z**, Wang L.
 
-  - RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation (TCSVT 2026)  
+- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation (TCSVT 2026)  
   **Qin Z**, Wang L, Wang Y, Zhou S, Hua G, Tang W.
 
 - Injecting Position and Relation Prior for Dense Video Captioning (Submitted to TIP)  
