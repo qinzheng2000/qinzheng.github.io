@@ -25,6 +25,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 
 
 # 🔥 News {#news}
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
@@ -135,7 +136,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
     <div class="authors">
       <strong>Zheng Qin</strong>, Le Wang, Yabing Wang, Sanping Zhou, Gang Hua, Wei Tang
     </div>
-    <div class="venue">Arxiv25</div>
+    <div class="venue">TCSVT</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y">Video</a> -->
       <a href="https://arxiv.org/abs/2504.17991"><i class="fas fa-file-alt"></i> Paper</a>
@@ -281,6 +282,9 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - Semantic and Kinematics Guidance for RMOT (TMM 2025)  
   Li Y, Zhou S, **Qin Z**, Wang L.
 
+  - RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation (TCSVT 2026)  
+  **Qin Z**, Wang L, Wang Y, Zhou S, Hua G, Tang W.
+
 - Injecting Position and Relation Prior for Dense Video Captioning (Submitted to TIP)  
   Li Y, Zhou S, **Qin Z**, Lin J, Sun X, Wu K, Wang L.
 
@@ -290,8 +294,6 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion (Submitted to TCSVT)  
   **Qin Z**, Wang L, Wang Y, Yang M, Rong C, Yang M, Zheng N.
 
-- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation (Submitted to TCSVT)  
-  **Qin Z**, Wang L, Wang Y, Zhou S, Hua G, Tang W.
 
 
 
