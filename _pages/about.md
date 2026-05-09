@@ -285,8 +285,11 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation (TCSVT 2026)  
   **Qin Z**, Wang L, Wang Y, Zhou S, Hua G, Tang W.
 
-- Injecting Position and Relation Prior for Dense Video Captioning (Submitted to TIP)  
+- Injecting Position and Relation Prior for Dense Video Captioning (PR 2026)  
   Li Y, Zhou S, **Qin Z**, Lin J, Sun X, Wu K, Wang L.
+
+- RAMP: Iterative Refinement and Adaptive Multi-granularity Perception for Embodied Dialog Localization (PR 2026)  
+  Wang H，Wang L，Zhou S，**Qin Z**，Hua G，Tang W
 
 - From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval (Submitted to TCSVT)  
   Wang Y, Tian Z, Guo Q, **Qin Z**, Zhou S, Yang M, Wang L.
