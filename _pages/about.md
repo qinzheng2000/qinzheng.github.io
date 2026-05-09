@@ -25,6 +25,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 
 
 # 🔥 News {#news}
+- *2026.05*: &nbsp;🎉🎉 Two papers are accepted by PR.
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
@@ -33,7 +34,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by TMM.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2025.
-- *2024.05*: &nbsp;🎉🎉 Two paper is accepted by TMM.
+- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by TMM.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023.
 
