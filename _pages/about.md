@@ -293,7 +293,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 - RAMP: Iterative Refinement and Adaptive Multi-granularity Perception for Embodied Dialog Localization (PR 2026)  
   Wang H，Wang L，Zhou S，**Qin Z**，Hua G，Tang W
 
-- From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval (Submitted to TCSVT)  
+- From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval (TCSVT 2026)  
   Wang Y, Tian Z, Guo Q, **Qin Z**, Zhou S, Yang M, Wang L.
 
 - Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion (Submitted to TCSVT)  
