@@ -25,6 +25,7 @@ I am expecting to complete my PhD in 2026.09 and am currently **seeking opportun
 
 
 # 🔥 News {#news}
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 - *2026.05*: &nbsp;🎉🎉 Two papers are accepted by PR.
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
